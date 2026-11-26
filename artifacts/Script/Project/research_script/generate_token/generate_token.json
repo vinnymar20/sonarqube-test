@@ -1,0 +1,29 @@
+{
+	"id": "24a997a1-13ce-f111-b890-0050568c835b",
+	"createdAt": "2026-10-22T12:25:14.640Z",
+	"createdBy": "s3.vinny",
+	"globalScripts": [],
+	"externalModules": [
+		{
+			"id": "internal_crypto",
+			"name": "crypto",
+			"contextname": "crypto",
+			"path": "crypto",
+			"subPath": ""
+		}
+	],
+	"entitySets": [],
+	"agents": [],
+	"apis": [],
+	"name": "generate_token",
+	"ver": "26.10.22.1925",
+	"description": null,
+	"folder": "",
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"lastRunSuccessful": true,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "5c974cb0-cb8f-f111-b88f-0050568c835b",
+	"package": "0c7aa5b6-71e9-f111-b890-0050568c835b"
+}

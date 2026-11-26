@@ -1,0 +1,26 @@
+{
+	"id": "e04d9e6d-ab90-f111-b88f-0050568c835b",
+	"createdAt": "2026-08-05T08:55:38.823Z",
+	"createdBy": "s3.vinny",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"agents": [],
+	"apis": [],
+	"name": "Get_vendor",
+	"ver": "26.08.05.1558",
+	"description": null,
+	"folder": "",
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"lastRunSuccessful": true,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "5c974cb0-cb8f-f111-b88f-0050568c835b",
+	"package": "0c7aa5b6-71e9-f111-b890-0050568c835b",
+	"jsscriptGroupObj": {
+		"id": "5c974cb0-cb8f-f111-b88f-0050568c835b",
+		"name": "research_script",
+		"ver": "26.11.26.1522"
+	}
+}

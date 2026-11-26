@@ -1,0 +1,32 @@
+{
+	"id": "f3cd40db-e5a1-f111-b88f-0050568c835b",
+	"createdAt": "2026-08-27T07:06:43.353Z",
+	"createdBy": "s3.vinny",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [
+		{
+			"id": "2c233006-e6a1-f111-b88f-0050568c835b",
+			"name": "test_sap",
+			"contextname": "test_sap"
+		}
+	],
+	"agents": [],
+	"apis": [],
+	"name": "SAP_to_POT_test",
+	"ver": "26.08.27.1445",
+	"description": null,
+	"folder": "",
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "5c974cb0-cb8f-f111-b88f-0050568c835b",
+	"package": "0c7aa5b6-71e9-f111-b890-0050568c835b",
+	"jsscriptGroupObj": {
+		"id": "5c974cb0-cb8f-f111-b88f-0050568c835b",
+		"name": "research_script",
+		"ver": "26.11.26.1522"
+	}
+}

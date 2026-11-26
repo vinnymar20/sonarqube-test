@@ -1,0 +1,21 @@
+{
+	"id": "44f3b6cb-cb8f-f111-b88f-0050568c835b",
+	"createdAt": "2026-08-04T06:14:49.430Z",
+	"createdBy": "s3.vinny",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"agents": [],
+	"apis": [],
+	"name": "SendEmail",
+	"ver": "26.08.04.1319",
+	"description": null,
+	"folder": "",
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "5c974cb0-cb8f-f111-b88f-0050568c835b",
+	"package": "0c7aa5b6-71e9-f111-b890-0050568c835b"
+}

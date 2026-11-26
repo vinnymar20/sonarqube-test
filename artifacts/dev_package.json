@@ -1,0 +1,88 @@
+{
+	"id": "0c7aa5b6-71e9-f111-b890-0050568c835b",
+	"createdAt": "2026-11-26T08:16:43.993Z",
+	"createdBy": "s3.vinny",
+	"git": {
+		"remote": "https://github.com/vinnymar20/sonarqube-test.git",
+		"branch": "master"
+	},
+	"name": "sonarqube-test",
+	"description": null,
+	"ver": "26.11.26.1530",
+	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
+	"excludeTemplateFiles": false,
+	"roles": [],
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [
+		{
+			"id": "f3cd40db-e5a1-f111-b88f-0050568c835b",
+			"name": "SAP_to_POT_test",
+			"description": null
+		},
+		{
+			"id": "e04d9e6d-ab90-f111-b88f-0050568c835b",
+			"name": "Get_vendor",
+			"description": null
+		},
+		{
+			"id": "44f3b6cb-cb8f-f111-b88f-0050568c835b",
+			"name": "SendEmail",
+			"description": null
+		},
+		{
+			"id": "24a997a1-13ce-f111-b890-0050568c835b",
+			"name": "generate_token",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "5c974cb0-cb8f-f111-b88f-0050568c835b",
+			"name": "research_script",
+			"description": ""
+		}
+	],
+	"theme": [],
+	"theme_generator": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"tile_layout": [],
+	"category": [],
+	"tilegroup_layout": [],
+	"launchpad": [],
+	"launchpad_layout": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"i18n": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": [],
+	"webapp": [],
+	"ui5_control": [],
+	"ai_agent": [],
+	"ai_model": [],
+	"ai_prompt": [],
+	"ai_tool": [],
+	"ai_guardrail": [],
+	"path_rewrite": [],
+	"vault": []
+}
