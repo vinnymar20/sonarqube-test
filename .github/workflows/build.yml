@@ -14,14 +14,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
-
-      - name: SonarQube Scan
-        shell: pwsh
-        run: |
-          sonar-scanner `
-            -D"sonar.host.url=$env:SONAR_HOST_URL" `
-            -D"sonar.token=$env:SONAR_TOKEN"
+          fetch-depth: 0  # Shallow clones should be disabled for a better relevancy of analysis
+      - uses: SonarSource/sonarqube-scan-action@v5
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
           SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
